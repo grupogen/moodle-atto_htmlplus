@@ -1,0 +1,15 @@
+{
+    "name": "grupogen/atto_htmlplus",
+    "type": "moodle-atto",
+    "authors": [
+      {
+        "name": "Igor Figueiredo",
+        "email": "igor.figueiredo@grupogen.com.br"
+      }
+    ],
+    "require": {"composer/installers": "~1.0"},
+    "require-dev": {},
+    "extra": {
+        "installer-name": "htmlplus"
+    }
+}
